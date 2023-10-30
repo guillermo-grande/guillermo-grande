@@ -1,6 +1,5 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1000/1*LnOSvWkXLLZPtkjWpau4MA.gif)]
 <h1 align="center">Hi 👋, I'm Guillermo Grande Santi</h1>
-<h3 align="center">A passionate Mathematician & Software Engineer from Spain</h3>
+<h3 align="center">A Mathematician & Software Engineer from Spain</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
