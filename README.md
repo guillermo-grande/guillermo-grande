@@ -25,10 +25,6 @@
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   
-  <img src="https://raw.githubusercontent.com/hwchase17/langchain/main/docs/_static/langchain-logo.png" alt="LangChain" width="120"/> 
-  
-  <img src="https://raw.githubusercontent.com/langgraph/langgraph/main/docs/_static/langgraph-logo.png" alt="LangGraph" width="120"/>
-  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
